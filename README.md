@@ -1,34 +1,72 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">
+    OrgsHooks - 🏪
+</h1>
 
-## Getting Started
+<p align="center">
+  <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rodando">Rodando</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#license">Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
 
-First, run the development server:
+<a id="tecnologias"></a>
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+## Tecnologias 🖥️
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<div align="center">
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+</div>
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+<a id="projeto"></a>
 
-## Learn More
+## Projeto 📕
 
-To learn more about Next.js, take a look at the following resources:
+Esse é o frontend do projeto Espaço Nerd
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+<a id="rodando"></a>
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Rodando o App 🚀
 
-## Deploy on Vercel
+Tenha em mente que você possua:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+    - Um editor de código
+    - NodeJS
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+### Rodando Nativamente 🌅
+
+1. Primeiro instale todas as dependências, utilize o gerenciador de pacotes a seu gosto.
+
+bash
+npm install
+# ou
+yarn install
+
+
+2. Pos baixar as dependências, Rode com:
+bash
+npn run start
+# ou
+yarn start
+
+
+
+<a id="como-contribuir"></a>
+
+## 🤔 Como contribuir
+
+- Faça um fork desse repositório;
+- Cria uma branch com a sua feature: `git checkout -b minha-feature`;
+- Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
+- Faça push para a sua branch: `git push origin minha-feature`.
+
+Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
+
+<a id="license"></a>
+
+### 🔖 Licença
+
+Caso queira conferir a licença do projeto, só olhar esse arquivo [LICENSE](./LICENSE)
