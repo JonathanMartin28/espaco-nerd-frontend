@@ -40,17 +40,20 @@ Tenha em mente que você possua:
 
 1. Primeiro instale todas as dependências, utilize o gerenciador de pacotes a seu gosto.
 
-bash
+````bash
 npm install
 # ou
 yarn install
+````
 
 
 2. Pos baixar as dependências, Rode com:
-bash
+
+```bash
 npn run start
 # ou
 yarn start
+```
 
 
 
